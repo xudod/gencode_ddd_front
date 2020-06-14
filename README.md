@@ -1,4 +1,3 @@
-# xudod_jy
 
 ## Project setup
 ```
